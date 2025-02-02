@@ -1,0 +1,35 @@
+ .red {
+    color: red;
+ }
+ img {
+    width: auto;
+    height: auto;
+    }
+
+    li {
+        text-align: center;
+    }
+   h2,h1{
+    background-color: black;
+    color: white;
+    text-align: center;
+   }
+
+
+
+   body {
+      background-color: rgba(213, 223, 218, 0.979);
+     
+      margin: auto;
+      padding: 10px;
+    line-height: 1.5;
+    border: 3px solid rgb(161, 60, 60);
+    width: 47%;
+   font-family: serif;
+    }
+
+   
+
+    
+
+   
